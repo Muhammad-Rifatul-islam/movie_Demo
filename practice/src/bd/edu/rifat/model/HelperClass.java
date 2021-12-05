@@ -16,8 +16,8 @@ public class HelperClass  {
         commentList.add(new Comment("rifat Mazumder","12 jan 2021","awesome movie"));
         commentList.add(new Comment("sifat","14 jan 2021","nice movie"));
 
-        productionList.add(new Production("marvel","dhaka",120,130));
-        productionList.add(new Production("Dc","Cumilla",90,95));
+        productionList.add(new Production("marvel","dhaka"));
+        productionList.add(new Production("Dc","Cumilla"));
 
         categoriList =new ArrayList<>();
         categoriList.add("horror");
